@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6j0507/v1
+canonical_location: https://kanripo.org/bkk/KR6j0507/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 文殊師利菩薩根本大教王經金翅鳥王品
+  identifiers:
+    alt_id:
+    - T21n1276
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1276.xml
+    old_id: T21n1276
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 乙
+  label: 乙
+  source_xml_id: wit3
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0507_000.yaml, hash: 'sha256:e99df1c37434960409f55d48a758d69bc151bc7643678ec1d9c627c6db3cf459'}
+  - {seq: 1, filename: KR6j0507_001.yaml, hash: 'sha256:dfb5bb699d0e6eaf768c3116c7210642147b62d15f8b614705decc6ccf0861bb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0507_001.markers.yaml, hash: 'sha256:4546ee265fe5699df47a4a88b48948d86f4e4d59e03411f8a483ded12acfe3bc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0507_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4304
+  label: '文殊師利菩薩根本大教王經
+
+    金翅鳥王品一卷'
+  type: juan
+  level: 1
+hash: sha256:bc74720fee961d3430ecabab596f79aa78935cc354fec2d8fa691643419ecc5b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0507/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利菩薩根本大教王經金翅鳥王品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1276.xml
+    old_id: T21n1276
+hash: sha256:e99df1c37434960409f55d48a758d69bc151bc7643678ec1d9c627c6db3cf459
