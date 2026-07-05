@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0507_000.yaml, hash: 'sha256:e99df1c37434960409f55d48a758d69bc151bc7643678ec1d9c627c6db3cf459'}
-  - {seq: 1, filename: KR6j0507_001.yaml, hash: 'sha256:dfb5bb699d0e6eaf768c3116c7210642147b62d15f8b614705decc6ccf0861bb'}
+  - {seq: 1, filename: KR6j0507_001.yaml, hash: 'sha256:1a53abf530bb8354754578a29ef78350f7fa3140baf9cb01f0eb180417eb8de6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0507_001.markers.yaml, hash: 'sha256:4546ee265fe5699df47a4a88b48948d86f4e4d59e03411f8a483ded12acfe3bc'}
+  - {seq: 0, role: markers, filename: assets/KR6j0507_000.markers.yaml, hash: 'sha256:4ead85c44db1e93c96293e7a277cee40886a7beee5df7ca72982a1445d5f6e3e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0507_001.markers.yaml, hash: 'sha256:03b1def236e169f86e3a45e03e4299e4b789fff8baf441769bbbc92540d45fe9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -44,7 +45,4 @@ table_of_contents:
     金翅鳥王品一卷'
   type: juan
   level: 1
-hash: sha256:bc74720fee961d3430ecabab596f79aa78935cc354fec2d8fa691643419ecc5b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e90ac0e5b4a9b2a4cee81505c074872f9e23d962cee8b6386c5e5f454c3daec3
