@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0507/v1
 canonical_location: https://kanripo.org/bkk/KR6j0507/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 文殊師利菩薩根本大教王經金翅鳥王品
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0507_000.yaml, hash: 'sha256:e99df1c37434960409f55d48a758d69bc151bc7643678ec1d9c627c6db3cf459'}
-  - {seq: 1, filename: KR6j0507_001.yaml, hash: 'sha256:1a53abf530bb8354754578a29ef78350f7fa3140baf9cb01f0eb180417eb8de6'}
+  - {seq: 1, filename: KR6j0507_001.yaml, hash: 'sha256:d516ef842035cc33e4cba9bfd4b6dcf7ec71e8e78551b5587acf33964277bbbe'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0507_000.markers.yaml, hash: 'sha256:4ead85c44db1e93c96293e7a277cee40886a7beee5df7ca72982a1445d5f6e3e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0507_001.markers.yaml, hash: 'sha256:03b1def236e169f86e3a45e03e4299e4b789fff8baf441769bbbc92540d45fe9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0507_001.markers.yaml, hash: 'sha256:3085a0d937345e68ea7a38a86d12584956a9023495ede368f929e4241e5a9204'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     金翅鳥王品一卷'
   type: juan
   level: 1
-hash: sha256:e90ac0e5b4a9b2a4cee81505c074872f9e23d962cee8b6386c5e5f454c3daec3
+hash: sha256:68065defa58471f760f86338c2405ce167b3e78433d46c60969e2ba6b53a7ff1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
